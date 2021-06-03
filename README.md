@@ -2,7 +2,7 @@
 
 *Ссылка на тесты:
 
-[gnlTester]https://github.com/Tripouille/gnlTester
+[gnlTester](https://github.com/Tripouille/gnlTester)
 
 *Команда для запуска:
 
@@ -12,7 +12,7 @@ make m = launch mandatory tests
 
 make a = launch mandatory tests + bonus tests
 
-[42TESTERS-GNL]https://github.com/Mazoise/42TESTERS-GNL
+[42TESTERS-GNL](https://github.com/Mazoise/42TESTERS-GNL)
 
 *Команда для запуска:
 
@@ -20,7 +20,7 @@ make a = launch mandatory tests + bonus tests
 
 2 - bash all_tests.sh or all_tests_with_bonus.sh
 
-[GET NEXT LINE TESTER]https://github.com/Hellio404/Get_Next_Line_Tester
+[GET NEXT LINE TESTER](https://github.com/Hellio404/Get_Next_Line_Tester)
 
 *Команда для запуска:
 
