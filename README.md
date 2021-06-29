@@ -31,7 +31,7 @@ make a = launch mandatory tests + bonus tests
 *MAIN for Leaks:
 
 --1 - Проверка на Leaks
-
+```c
 #include <stdio.h>
 #include "get_next_line.h"
 #include <sys/stat.h>
@@ -53,11 +53,11 @@ int main()
     while(1);
     return (0);
 }
-
+```
 --2 - Leaks a.out
 
 *MAIN for Evaluate:
-
+```c
 #include <stdio.h>
 #include "get_next_line.h"
 #include <sys/stat.h>
@@ -82,9 +82,9 @@ int main(void)
     }
     while (1);
 }
-
+```
 * MAIN from github
-
+```c
 #include <stdio.h>
 #include <fcntl.h>
 #include "get_next_line.h"
@@ -132,9 +132,9 @@ int main(int argc, char **argv)
  }
  return (0);
 }
-
+```
 *Main for Bonus
-
+```c
 #include <stdio.h>
 #include "get_next_line_bonus.h"
 #include <sys/stat.h>
@@ -174,6 +174,6 @@ int main(void)
     printf("%d | %s\n", get_next_line(fd2, &line), line);
     free(line);
 }
-
+```
 
 
